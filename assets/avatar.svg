@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 240" role="img" aria-label="通用像素头像">
+  <rect width="240" height="240" fill="#eac3ba"/>
+  <path d="M0 180h40v-30h30v30h40v-20h40v-40h30v40h30v-20h30v100H0z" fill="#b88aa8"/>
+  <circle cx="185" cy="52" r="27" fill="#ffe5bd"/>
+  <g shape-rendering="crispEdges">
+    <path d="M72 80h16V64h64v16h16v64h-16v16H88v-16H72z" fill="#574160"/>
+    <path d="M88 92h64v44h-16v16h-32v-16H88z" fill="#ffdeb9"/>
+    <path d="M96 108h8v8h-8zm40 0h8v8h-8zm-24 20h16v8h-16z" fill="#574160"/>
+    <path d="M88 160h64v16h16v16h16v48H56v-48h16v-16h16z" fill="#695077"/>
+    <path d="M104 160h32v16h-8v16h-16v-16h-8z" fill="#fff0d5"/>
+    <path d="M28 36h8V24h8v12h12v8H44v12h-8V44h-8z" fill="#fff0d5"/>
+  </g>
+</svg>

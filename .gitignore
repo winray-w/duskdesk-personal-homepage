@@ -1,0 +1,11 @@
+# 本地预览与操作系统生成文件
+node_modules/
+dist/
+previews/
+*.zip
+*.log
+.DS_Store
+Thumbs.db
+.env
+.env.*
+!.env.example
