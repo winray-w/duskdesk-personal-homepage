@@ -163,6 +163,7 @@ node server.cjs
 
 ```text
 .
+├── LICENSE                   MIT 许可证
 ├── README.md                 中文项目介绍
 ├── README.en.md              English README
 ├── index.html                页面结构与窗口模板
@@ -189,6 +190,10 @@ node server.cjs
 - GitHub、邮箱或项目链接留空时不会生成对应的外部入口。邮箱通过设备的邮件客户端打开。
 - 样式使用 Google Fonts 增强排版，网络不可用时回退到系统字体。无需额外安装字体即可使用。
 - 修改后刷新浏览器，再检查手机尺寸与各个窗口。更多排查方法见 [使用手册](docs/使用手册.md#9-常见问题)。
+
+## 许可证
+
+本项目采用 [MIT License](LICENSE)，版权所有 © 2026 winray。允许使用、修改、分发和商业使用；分发副本或实质性部分时，须保留原版权声明与许可证。完整条款见 `LICENSE`。
 
 ---
 

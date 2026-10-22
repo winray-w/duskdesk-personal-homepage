@@ -163,6 +163,7 @@ After customizing the template, you can publish your website using a domain name
 
 ```text
 .
+├── LICENSE                   MIT License
 ├── README.md                 Chinese README
 ├── README.en.md              English README
 ├── index.html                Page structure and window templates
@@ -189,6 +190,10 @@ After customizing the template, you can publish your website using a domain name
 - Empty GitHub, email, or project URL fields hide those external links. Email links open the visitor's configured mail app.
 - Google Fonts enhance the typography; system fonts are used when they are unavailable. No local font installation is required.
 - Refresh after editing and check narrow screens and each window. The [user guide](docs/使用手册.md#9-常见问题) includes more troubleshooting advice in Chinese.
+
+## License
+
+This project is licensed under the [MIT License](LICENSE). Copyright © 2026 winray. Use, modification, distribution, and commercial use are permitted, provided the copyright and license notices are retained in copies or substantial portions. See `LICENSE` for the full terms.
 
 ---
 
